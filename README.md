@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Siddharth Rawat</h1>
-<h3 align="center">(Appreciates honest efforts)</h3>
 
 - 👯 I’m looking to collaborate on **Sports(Football, Badminton, TT, Volleyball), system design discussions and stock markets.**
 
