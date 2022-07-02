@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddharth Rawat</h1>
 
-- 👯 I’m looking to collaborate on **Sports(Football, Badminton, TT, Volleyball), system design discussions and stock markets.**
+- 👯 I’m looking to collaborate on **System design and tech discussions.**
 
 ![](https://komarev.com/ghpvc/?username=siddharth1001&color=green)
 
